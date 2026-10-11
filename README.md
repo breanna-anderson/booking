@@ -1,8 +1,6 @@
 # AI powered expert system demo
 
-Spring AI re-implementation of https://github.com/marcushellberg/java-ai-playground
-
-This app shows how you can use [Spring AI](https://github.com/spring-projects/spring-ai) to build an AI-powered system that:
+This app shows how you can use spring build an AI-powered system that:
 
 - Has access to terms and conditions (retrieval augmented generation, RAG)
 - Can access tools (Java methods) to perform actions (Function Calling)
